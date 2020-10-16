@@ -22,12 +22,12 @@
   "readmeFilename": "README.md",
   "dependencies": {
     "debug": "^4",
-    "is-valid-hostname": "^0.0.1",
+    "is-valid-hostname": "^0.1.1",
     "shelljs": "~0.8"
   },
   "devDependencies": {
+    "mocha": "^6",
     "eslint": "^6",
-    "eslint-plugin-standard": "^4",
-    "mocha": "^6"
+    "eslint-plugin-standard": "^4"
   }
 }
